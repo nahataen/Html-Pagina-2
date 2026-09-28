@@ -28,7 +28,7 @@ cd html/css
 npx live-server
 ```
 
-- GitHub Pages (si está activado): `https://nahataen.github.io/html-pages-lab-02/html/css/indexconcss.html`
+- GitHub Pages (si está activado): `https://nahataen.github.io/Html-Pagina-2/html/css/indexconcss.html`
 
 ## Notas
 
